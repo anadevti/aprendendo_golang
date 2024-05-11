@@ -3,8 +3,8 @@ package main // a função main é a porta de entrada e de saida de qualquer pro
 import "fmt"
 
 func main() {
-    // aqui começa
-    fmt.Println    ("Hello, World!")
-//pacote/ Identificador
-    // aqui termina
+	// aqui começa
+	fmt.Println("Hello, World!")
+	// pacote/ Identificador
+	// aqui termina
 }
